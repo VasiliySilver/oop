@@ -1,0 +1,6 @@
+html, body{
+    margin: 40px;
+}
+.gallery img{
+    width: 400px;
+}
